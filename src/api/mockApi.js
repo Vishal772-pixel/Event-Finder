@@ -24,14 +24,14 @@ const mockEvents = [
     id: 4,
     name: "Music Concert",
     date: "2023-07-01",
-    location: "London",
+    location: "Mumbai",
     description: "Live performance by top artists",
   },
   {
     id: 5,
     name: "Startup Conference",
     date: "2023-07-10",
-    location: "San Francisco",
+    location: "Delhi",
     description: "Network with entrepreneurs and investors",
   },
 ]
@@ -41,14 +41,14 @@ const mockTrendingItems = [
     id: 1,
     name: "Summer Music Festival",
     type: "Event",
-    location: "Los Angeles",
+    location: "Lucknow",
     date: "2023-07-15",
   },
   {
     id: 2,
     name: "Startup Networking",
     type: "Meetup",
-    location: "San Francisco",
+    location: "Bengluru",
     date: "2023-06-30",
   },
   {
